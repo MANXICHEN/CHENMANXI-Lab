@@ -13,6 +13,4 @@ public class L01Q01 {
         System.out.println("Hello, World!");
     }
 
-}
-
    
